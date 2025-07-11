@@ -1,2 +1,3 @@
 Hello Git 
 Added version 2 
+Logging feature added 
